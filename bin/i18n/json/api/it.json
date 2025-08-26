@@ -972,45 +972,45 @@
   "PILOT_CONFIG": {
     "model_param1_value": {
       "english": "Set this to the expected flight time in seconds.  The transmitter will beep when the flight time is reached.",
-      "translation": "Reglez cette valeur sur la duree de vol prevue, en secondes. La radiocommande emettra un bip lorsque cette duree sera atteinte.",
+      "translation": "Regola questo valore sulla durata prevista di volo, in secondi. La radio emettera un bip quando la durata sarà raggiunta.",
       "needs_translation": "false"
     }
   },
   "BATTERY_INI": {
     "calcfuel_local": {
       "english": "Calculate Fuel Using",
-      "translation": "Calculate Fuel Using",
-      "needs_translation": "true"
+      "translation": "Calcolo uso Carburante",
+      "needs_translation": "false"
     },
     "tbl_off": {
       "english": "Current Sensor",
-      "translation": "Current Sensor",
-      "needs_translation": "true"
+      "translation": "Sensore Corrente",
+      "needs_translation": "false"
     },
     "tbl_on": {
       "english": "Voltage Sensor",
-      "translation": "Voltage Sensor",
+      "translation": "Sensore Voltaggio",
       "needs_translation": "true"
     },
     "sag_multiplier": {
       "english": "Raise or lower to adjust for the amount of voltage sag you see in flight.",
-      "translation": "Raise or lower to adjust for the amount of voltage sag you see in flight.",
-      "needs_translation": "true"
+      "translation": "Aumenta o diminuisic la quantità di picchi voltaggio rilevata in volo.",
+      "needs_translation": "false"
     },
     "alert_off": {
       "english": "Off",
       "translation": "Off",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "alert_bec": {
       "english": "BEC",
       "translation": "BEC",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "alert_rxbatt": {
       "english": "RxBatt",
       "translation": "Rx Batt",
-      "needs_translation": "true"
+      "needs_translation": "false"
     }
   },
   "BATTERY_CONFIG": {
@@ -1202,53 +1202,53 @@
     },
     "tbl_govmode_external": {
       "english": "EXTERNAL",
-      "translation": "EXTERNAL",
-      "needs_translation": "true"
+      "translation": "ESTERNO",
+      "needs_translation": "false"
     },
     "tbl_govmode_electric": {
       "english": "ELECTRIC",
-      "translation": "ELECTRIC",
-      "needs_translation": "true"
+      "translation": "ELETTRICO",
+      "needs_translation": "false"
     },
     "tbl_govmode_nitro": {
       "english": "NITRO",
       "translation": "NITRO",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "tbl_throttle_type_normal": {
       "english": "NORMAL",
-      "translation": "NORMAL",
-      "needs_translation": "true"
+      "translation": "NORMALE",
+      "needs_translation": "false"
     },
     "tbl_throttle_type_off_on": {
       "english": "OFF_ON",
       "translation": "OFF_ON",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "tbl_throttle_type_off_idle_on": {
       "english": "OFF_IDLE_ON",
       "translation": "OFF_IDLE_ON",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "tbl_throttle_type_idle_auto_on": {
       "english": "OFF_IDLE_AUTO_ON",
       "translation": "OFF_IDLE_AUTO_ON",
-      "needs_translation": "true"
+      "needs_translation": "false"
     },
     "governor_idle_throttle": {
       "english": "Idle throttle",
-      "translation": "Idle throttle",
-      "needs_translation": "true"
+      "translation": "Minimo Gas/throttle",
+      "needs_translation": "false"
     },
     "governor_auto_throttle": {
       "english": "Auto throttle",
-      "translation": "Auto throttle",
-      "needs_translation": "true"
+      "translation": "Auto gas/throttle",
+      "needs_translation": "false"
     },
     "governor_fallback_drop": {
       "english": "Fallback drop",
-      "translation": "Fallback drop",
-      "needs_translation": "true"
+      "translation": "Rilascio Fallback",
+      "needs_translation": "false"
     }
   },
   "RC_CONFIG": {
